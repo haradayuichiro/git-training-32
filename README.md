@@ -1,0 +1,3 @@
+#はじめてのgit
+
+Hello,git!
